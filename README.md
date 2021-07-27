@@ -8,5 +8,5 @@
   ~ working with two dimentional arrays<br />
   ~ linked lists<br />
   ~ writing numeric, character and string values to a file descriptor<br />
-  ~ working with Unit testing<br />
-  ~ writing of Makefile
+  ~ working with Unit tests<br />
+  ~ writing of a Makefile
