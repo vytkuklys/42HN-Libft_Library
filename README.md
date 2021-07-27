@@ -1,7 +1,7 @@
 :rocket: 42 Heilbronn project <br />
 <br />
 :dart: Goal: <br />
-  ~ recreate or slightly modify 43 existing functions in the library of libft. <br />
+  ~ recreate or improve 43 existing functions that exist in the library of libft <br />
 <br />
 :medal_sports: Targeted competences: <br />
   ~ handling of arrays, strings and numbers<br />
